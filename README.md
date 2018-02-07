@@ -13,3 +13,5 @@ Thresholding Problem Statement: The binary threshold operation is the simplest w
 	
   b) The output binary image also needs to have the image header.
 
+
+PrettyPrint purpose is to visualized a given image.  PrettyPrint will be used in many occasions, for grey-scale and binary images. 
